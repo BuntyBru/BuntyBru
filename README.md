@@ -3,7 +3,7 @@
 ![Snow](https://lh3.googleusercontent.com/-RSlXhRANFWs/YAaFhs58NUI/AAAAAAAANIY/NvLiCx2byPALODy_ouLi8mhUBr0oDG-IACK8BGAsYHg/s0/2021-01-18.jpg)
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/divyanshu-kr-dubey/" target="_blank>
+    <a href="https://www.linkedin.com/in/divyanshu-kr-dubey/" target="_blank">
         <img src="https://img.shields.io/badge/%20-Divyanshu Kumar-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
     </a>
 </p>
