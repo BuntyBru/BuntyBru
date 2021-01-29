@@ -20,5 +20,4 @@ As of now I am looking to dig onto GraphQL and Flutter.
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuntyBru&theme=prussian" alt="BuntyBru" /></p>
 
-### Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/BuntyBru/count.svg)
+
