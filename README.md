@@ -13,7 +13,6 @@ I'm a software engineer who is passionate about frontend development, Some techn
 Currently, I work as a frontend software engineer <a href='https://strataprop.com/'>@Strata</a>. Being the only frontend hire I bear the ownership of the frontend part of all our platforms.
 As of now I am looking to dig onto GraphQL and Flutter.
 
-
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuntyBru&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=BuntyBru&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
