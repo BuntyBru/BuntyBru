@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bunty! 👋</h1>
+<h1>Hi, I'm Bunty! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ![Snow](https://lh3.googleusercontent.com/-RSlXhRANFWs/YAaFhs58NUI/AAAAAAAANIY/NvLiCx2byPALODy_ouLi8mhUBr0oDG-IACK8BGAsYHg/s0/2021-01-18.jpg)
 
