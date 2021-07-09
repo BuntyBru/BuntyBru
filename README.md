@@ -10,7 +10,7 @@
 
 I'm a software engineer who is passionate about frontend development, Some technologies I enjoy working with include ReactJS, Angular, Jamstack (JavaScript, APIs + Markup).Some of the exciting things which I did in the past include that of working as a Teaching Assistant at <a href='https://www.udemy.com/course/the-web-developer-bootcamp/'>The Web Developer Bootcamp</a> on Udemy.
 
-Currently, I work as a frontend software engineer <a href='https://strataprop.com/'>@Strata</a>.
+
 
 As of now I am looking to dig onto GraphQL and Flutter.
 
