@@ -10,6 +10,16 @@
 
 I'm a software engineer who is passionate about frontend development, Some technologies I enjoy working with include ReactJS, Angular, Jamstack (JavaScript, APIs + Markup).Some of the exciting things which I did in the past include that of working as a Teaching Assistant at <a href='https://www.udemy.com/course/the-web-developer-bootcamp/'>The Web Developer Bootcamp</a> on Udemy.
 
+<h3>things i code with</h3>
+
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
+
 
 
 As of now I am looking to dig onto GraphQL and Flutter.
