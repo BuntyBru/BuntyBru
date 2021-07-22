@@ -16,6 +16,8 @@ I'm a software engineer who is passionate about frontend development, Some techn
 
 <!-- in your body -->
 <i class="devicon-react-original colored"></i>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+
 
 
 
