@@ -22,6 +22,8 @@ I'm a software engineer who is passionate about frontend development, Some techn
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/icons/react/react-original-wordmark.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/icons/redux/redux-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/icons/tailwindcss/tailwindcss-plain.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40px"></span>&nbsp;
 
 
 
