@@ -26,7 +26,9 @@ I'm a software engineer who is passionate about frontend development, Some techn
 
 
 
-As of now I am looking to dig onto GraphQL and Flutter.
+As of now I am looking forward to dig onto<br>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="50px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" width="40px"></span>&nbsp;
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuntyBru&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
