@@ -8,6 +8,7 @@
 </p>
 
 I'm a software engineer who is passionate about frontend development, Some technologies I enjoy working with include ReactJS, Angular, Jamstack (JavaScript, APIs + Markup).Some of the exciting things which I did in the past include that of working as a Teaching Assistant at <a href='https://www.udemy.com/course/the-web-developer-bootcamp/'>The Web Developer Bootcamp</a> on Udemy.
+I like working with early stage startups.
 
 <h3>Things i code with</h3>
 
