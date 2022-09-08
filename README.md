@@ -33,8 +33,6 @@ I like working with early stage startups.
 
 
 As of now I am looking forward to dig onto<br>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="50px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="45px"></span>&nbsp;
 <span><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="45px" alt="SwiftUI"></span>&nbsp;
 
