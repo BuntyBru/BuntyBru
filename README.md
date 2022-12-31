@@ -40,4 +40,4 @@ As of now I am looking forward to dig onto<br>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=BuntyBru&show_icons=true&hide=issues,contribs&count_private=true&theme=prussian" alt="GitHub stats" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuntyBru&theme=prussian" alt="BuntyBru" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuntyBru&theme=prussian" alt="BuntyBruStreaks" /></p>
