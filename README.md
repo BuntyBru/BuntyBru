@@ -36,8 +36,8 @@ As of now I am looking forward to dig onto<br>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="45px"></span>&nbsp;
 <span><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="45px" alt="SwiftUI"></span>&nbsp;
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuntyBru&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
+<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuntyBru&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=BuntyBru&show_icons=true&hide=issues,contribs&count_private=true&theme=prussian" alt="GitHub stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=BuntyBru&show_icons=true&hide=issues,contribs&count_private=true&theme=prussian" alt="GitHub stats" /></p> -->
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BuntyBru&theme=prussian" alt="BuntyBruStreaks" /></p>
