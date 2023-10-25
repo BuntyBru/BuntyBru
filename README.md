@@ -8,7 +8,7 @@
 </p>
 
 
-
+<img src="https://raw.githubusercontent.com/BuntyBru/fluffy-octo-invention/main/assets/IntroImageShort.jpeg"/>
 
 
 
