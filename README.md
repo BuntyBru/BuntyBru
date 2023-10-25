@@ -1,4 +1,4 @@
-### Hey there <a href="https://buntybru.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+# Hey there <a href="https://buntybru.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
 <p align="left">
     <a  target="_blank" href="https://www.linkedin.com/in/divyanshu-kr-dubey/">
@@ -10,8 +10,7 @@
 <img src="https://raw.githubusercontent.com/BuntyBru/fluffy-octo-invention/main/assets/IntroImageShort.jpeg"/>
 
 
-
-### Things i code with
+> ## Things i code with
 
 <!-- in your body -->
 <i class="devicon-react-original colored"></i>
