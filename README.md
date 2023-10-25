@@ -1,5 +1,4 @@
-### Hey  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
-
+### Hey there <a href="https://buntybru.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 
 <p align="left">
     <a  target="_blank" href="https://www.linkedin.com/in/divyanshu-kr-dubey/">
@@ -12,7 +11,7 @@
 
 
 
-<h3>Things i code with</h3>
+### Things i code with
 
 <!-- in your body -->
 <i class="devicon-react-original colored"></i>
