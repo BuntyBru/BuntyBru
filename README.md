@@ -1,4 +1,4 @@
-# Divyanshu Kumar Dubey
+# Divyanshu
  
 Frontend lead. 8.5 years building product UIs, design systems, and the teams that maintain them.
  
