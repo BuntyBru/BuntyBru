@@ -3,6 +3,9 @@
 Frontend lead. 8.5 years building product UIs, design systems, and the teams that maintain them.
  
 I specialise in component architecture, Core Web Vitals performance, and the gap between "frontend works" and "frontend is a serious discipline." Currently shipping [Karigiri Kit](https://github.com/BuntyBru/karigiri-kit) — a headless React component library where behaviour is non-negotiable and appearance is entirely yours.
+
+<img width="441" height="78" alt="image" src="https://github.com/user-attachments/assets/997b3529-0d7e-4b09-9eab-a908c010ccdf" />
+
  
 → [divdstack.com](https://divdstack.com) &nbsp;·&nbsp; [Writing](https://divdstack.com/field-notes) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/divyanshu-kr-dubey/)
  
