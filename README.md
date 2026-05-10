@@ -12,12 +12,10 @@ I specialise in component architecture, Core Web Vitals performance, and the gap
 ## What I'm building
  
 **[Karigiri Kit](https://karigiri-kit.divdstack.com/)** — React component library built on CSS custom properties. Two variable overrides completely rebrand the library. No CSS-in-JS, compound component API, Turborepo monorepo, Changesets versioning.
+
 <img width="441" height="78" alt="image" src="https://github.com/user-attachments/assets/a9681e53-58e2-444a-a5e9-cfa686cd1140" />
 
  
-> *karigiri (कारीगरी) — craftsmanship in Hindi*
- 
-
  
 ## Things I work with
  
