@@ -1,6 +1,6 @@
 # Divyanshu
  
-Frontend lead. 8.5 years building product UIs, design systems, and the teams that maintain them.
+Frontend lead. 8.5+ years building product UIs, design systems, and the teams that maintain them. 3x founding engineer.
  
 I specialise in component architecture, Core Web Vitals performance, and the gap between "frontend works" and "frontend is a serious discipline." Currently shipping [Karigiri Kit](https://github.com/BuntyBru/karigiri-kit) — a headless React component library where behaviour is non-negotiable and appearance is entirely yours.
 
