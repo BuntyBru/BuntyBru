@@ -27,7 +27,7 @@ I specialise in component architecture, Core Web Vitals performance, and the gap
  
 ---
  
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuntyBru&theme=prussian" alt="BuntyBru contribution streak" />
-</p>
+</p> -->
  
